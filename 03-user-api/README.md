@@ -1,4 +1,4 @@
-## Django REST API
+## User REST API
 
 ```bash
 python -m venv .my_env1
