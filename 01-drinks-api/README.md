@@ -1,4 +1,4 @@
-## Django REST API
+## Drinks API
 
 ```bash
 python --version
